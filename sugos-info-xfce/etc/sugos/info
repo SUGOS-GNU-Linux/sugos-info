@@ -1,0 +1,10 @@
+RELEASE=1.0
+CODENAME=himate
+EDITION="Xfce"
+DESCRIPTION="SUGOS Linux 1.0 Himate"
+DESKTOP=Gnome
+TOOLKIT=GTK
+NEW_FEATURES_URL=https://sugosdev.blogspot.com/
+RELEASE_NOTES_URL=https://sugosdev.blogspot.com/
+USER_GUIDE_URL=https://sugosdev.blogspot.com/
+GRUB_TITLE=SUGOS Linux 1.0 Xfce
